@@ -28,7 +28,13 @@ body{
         padding: 20px;
     }
     .cabecera h1{
-        text-align: left;
+        text-align: center;
+    }
+    .cabecera h2{
+        text-align: center;
+    }
+    .cabecera img{
+        width: 90px;
     }
     .menu{
         background-color: #b2bec3;
