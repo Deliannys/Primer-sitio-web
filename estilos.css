@@ -36,6 +36,10 @@ body{
     .cabecera img{
         width: 90px;
     }
+    .avena{
+        background-color: white;
+        color: #e15f41;
+    }
     .menu{
         background-color: #b2bec3;
         padding: 5px 15px;
