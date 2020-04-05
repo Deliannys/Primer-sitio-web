@@ -36,9 +36,6 @@ body{
     .cabecera img{
         width: 90px;
     }
-    .avena{
-        background-color: white;
-        color: #e15f41;
     }
     .menu{
         background-color: #b2bec3;
@@ -51,6 +48,7 @@ body{
         font:bold 14px verdana ;
         display: inline-block;
     }
+
     article{
         background-color: #fffbcc;
         border: 1px solid #999;
@@ -84,7 +82,7 @@ body{
     .pie{
         clear: both; 
         padding: 20px;
-        background-color: #b2bec3;
+        background-color:rgb(221, 199, 199) ;
     }
     img{
         width: 80px;
