@@ -29,6 +29,7 @@ body{
     }
     .cabecera h1{
         text-align: center;
+        text-shadow:2px 2px 2px red;
     }
     .cabecera h2{
         text-align: center;
