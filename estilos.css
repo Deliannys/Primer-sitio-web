@@ -38,7 +38,7 @@ body{
     }
     }
     .menu{
-        background-color: #b2bec3;
+        background-color: purple;
         padding: 5px 15px;
         text-align: left;
     }
@@ -47,6 +47,7 @@ body{
         padding: 5px;
         font:bold 14px verdana ;
         display: inline-block;
+        background-color: rgb(204, 153, 174);
     }
 
     article{
@@ -71,7 +72,6 @@ body{
         width: 30%;
         float: left;
         margin: 20px 0px
-
     }
     .columna blockquote{
         border: 1px solid black;
